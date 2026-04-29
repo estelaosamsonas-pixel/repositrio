@@ -1,2 +1,4 @@
 Segunda aula de GIT(prática)
 estela
+
+alteração repositorio remoto
